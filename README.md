@@ -1,2 +1,2 @@
 # ajay
-for using normal git command
+for using normal git command for tcs    
